@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Luca Borges Confente</title>
+        <meta charset="utf-8"/>
+    </head>
+    <body>
+        <h1>Estudante do segundo ano do Ensino Medio</h1> 
+        <h2> 16 anos de idade
+            numero de telefone <u>(21)99930-9330</u> 
+            Email - <i>lucacrepper@gmail.com</i> 
+            colegio/escola - Centro Educacional Espaco Integrado <strong>(CEI)</strong>
+            <i>instagram</i> @luca.confente
+        </h2>
+        
+        <p>
+            Curso o Ensino Medio alem de aprofundar meus conhecimentos em aulas ciencias e tecnologias proporciuonadas pela propria escola CEI. Colegio CEI localizado na barrinha  <br>
+            - Faco aulas de piano as quintas-feiras <br>
+            - Fluencia em <strong>(alem de portugues)</strong> : italiano
+            - base ingles : completa
+            - trabalho:...
+            - formacao: 2023
+        </p>
+        
+    </body>
+</html>
