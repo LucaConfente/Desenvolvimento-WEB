@@ -1,0 +1,35 @@
+h1 {
+    font-size: 50px;
+}
+
+div {
+    background-color: blueviolet;
+}
+
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tamanho-rela {
+    border: solid 5px rgb(0, 0, 0);
+	width: 50%;
+    height: 50%;
+    margin: auto;
+}
+
+.tamanho-fixo{
+    border: solid 5px rgb(43, 0, 255);
+	width: 600px;
+    height: 800px;  
+    margin: auto;
+}
+
+.mod{
+    color: rgb(50, 66, 35);
+    border: solid 5px ;
+    background-color: rgb(8, 0, 249);
+    font-weight: bold;
+    ;
+}
+
+ 
